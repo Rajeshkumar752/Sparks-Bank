@@ -1,4 +1,4 @@
-Sparks Bank
+# Sparks Bank
 
 The live working of the website can be observed at https://sparks-banking-system.herokuapp.com/
 
