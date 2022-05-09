@@ -1,6 +1,5 @@
 # Sparks Bank
 
-The live working of the website can be observed at https://sparks-banking-system.herokuapp.com/
 
 This is the Webpage Task of the internship at Spark Foundation for web development and web designing.
 
